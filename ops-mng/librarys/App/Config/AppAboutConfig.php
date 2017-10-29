@@ -26,15 +26,15 @@
         const ARRAY_KEY_BUILD_AT    = 'build_at';
 
         const ARRAY_VALUE_NAME      = 'Manager';
-        const ARRAY_VALUE_AUTHOR    = 'IzeroCs';
-        const ARRAY_VALUE_VERSION   = '3.5.3';
+        const ARRAY_VALUE_AUTHOR    = 'MGM';
+        const ARRAY_VALUE_VERSION   = '3.5.4';
         const ARRAY_VALUE_IS_BETA   = true;
-        const ARRAY_VALUE_EMAIL     = 'Izero.Cs@gmail.com';
-        const ARRAY_VALUE_FB_LINK   = 'https://facebook.com/IzeroCs';
-        const ARRAY_VALUE_FB_TITLE  = 'fb.com/IzeroCs';
-        const ARRAY_VALUE_GIT_LINK  = 'https://github.com/IzeroCs/Manager';
-        const ARRAY_VALUE_GIT_TITLE = 'IzeroCs/Manager';
-        const ARRAY_VALUE_PHONE     = '+841685929323';
+        const ARRAY_VALUE_EMAIL     = '@gmail.com';
+        const ARRAY_VALUE_FB_LINK   = 'https://facebook.com/';
+        const ARRAY_VALUE_FB_TITLE  = 'fb.com/';
+        const ARRAY_VALUE_GIT_LINK  = 'https://github.com/';
+        const ARRAY_VALUE_GIT_TITLE = 'MGM/Manager';
+        const ARRAY_VALUE_PHONE     = '12345678';
         const ARRAY_VALUE_CREATE_AT = 1434468025;
 
         private static $instance;

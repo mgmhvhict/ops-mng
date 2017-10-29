@@ -4,20 +4,20 @@
         exit;
 
     return [
-        'build_at' => 1507894057,
+        'build_at' => 1508645805,
         'name' => 'Manager',
-        'author' => 'IzeroCs',
-        'version' => '3.5.3',
+        'author' => 'MGM',
+        'version' => '3.5.4',
         'is_beta' => true,
-        'email' => 'Izero.Cs@gmail.com',
-        'fb_link' => 'https://facebook.com/IzeroCs',
-        'fb_title' => 'fb.com/IzeroCs',
-        'git_link' => 'https://github.com/IzeroCs/Manager',
-        'git_title' => 'IzeroCs/Manager',
-        'phone' => '+841685929323',
+        'email' => '@gmail.com',
+        'fb_link' => 'https://facebook.com/',
+        'fb_title' => 'fb.com/',
+        'git_link' => 'https://github.com/',
+        'git_title' => 'MGM/Manager',
+        'phone' => '12345678',
         'create_at' => 1434468025,
         'upgrade_at' => 0,
-        'check_at' => 1507795429,
+        'check_at' => 1508633816,
     ];
 
 ?>
